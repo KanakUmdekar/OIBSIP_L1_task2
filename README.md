@@ -4,6 +4,6 @@ The tasks are assigned by Oasis Infobyte.
 
 Task 2 : Create a Portfolio Web Design.
 
-##Technologies used
+### Technologies used
 -HTML
 -CSS
